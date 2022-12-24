@@ -1,5 +1,5 @@
-FROM rust:1.31
+FROM rust:1.66
 
-LABEL maintainer="john@johnmaguiredeveloper.com"
+LABEL maintainer="john@jmaguire.tech"
 
-ENV REFRESHED_AT 2020_07_03
+ENV REFRESHED_AT 2022_12_25

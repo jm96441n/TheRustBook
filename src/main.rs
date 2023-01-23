@@ -1,3 +1,4 @@
+mod five;
 mod four;
 mod three;
 mod two;
@@ -12,6 +13,7 @@ fn main() {
         three::run();
     } else if chap == "4" {
         four::run();
+    } else if chap == "5" {
+        five::run();
     }
 }
-// Chapter 2
